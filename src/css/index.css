@@ -1,0 +1,19 @@
+.w3-bar h2 {
+    margin-left: 20px;
+}
+
+.w3-card-4 {
+    width: 100%;
+    height: auto;
+}
+
+#valorActual p {
+    text-align: center;
+    font-size: 20px;
+}
+
+#valorHistoria p {
+    text-align: left;
+    font-size: 20px;
+    margin-left: 10px;
+}
